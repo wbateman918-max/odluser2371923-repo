@@ -8,7 +8,6 @@
     "build": "gulp"
   },
   "dependencies": {
-    "consolidate": "^1.0.3",
     "del": "^7.1.0",
     "express": "4.19.2",
     "gulp": "^5.0.0",
@@ -16,7 +15,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-html-replace": "^1.6.2",
     "gulp-uglify": "^3.0.2",
-    "mockery": "1.0.1",
-    "mustache": "^4"
+    "mustache": "^4",
+    "consolidate": "^1.0.3"
   }
 }
